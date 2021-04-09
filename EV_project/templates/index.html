@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+        <title>BreakDown Model</title>
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sofia&effect=fire|outline">
+    </head>
+    <!--style="background-image: url(https://miro.medium.com/max/1250/1*oZdMVD-arRoauCTAi5V0lA.jpeg); background-repeat: no-repeat; background-size: cover;"-->
+
+    <body background="{{url_for('static',filename='img/ev.jpg') }}">
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+                <a class="navbar-brand" href="#">Innodatics</a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                    <ul class="navbar-nav">
+                        <li class="nav-item active">
+                            <a class="nav-link" href="/">Home <span class="sr-only">(current)</span></a>
+                        </li>
+                        <li class="nav-item active">
+                            <a class="nav-link" href="#">About<span class="sr-only">(current)</span></a>
+                        </li>
+                    
+                    </ul>  
+                </div>
+            </nav>
+        <div style="display: flex; justify-content: center;">
+                <img src='https://innodatatics.com/images/excelr-logo-small.png'  width=350 height=80 align = 'center'>
+        </div></br>
+        <div>
+        <h1 align = 'center' style=" color: white; font-weight: bold">EV Battery Breakdown Prediction </h1><br><br>
+            <form action="predict" method="post">
+            <div class="type" align='center'>
+            <label style="color: white;font-weight: bold;">Nominal Voltage:</label><input id="first" name="NV" type="number ">
+            <label style="color: white;font-weight: bold;">Discharge Current:</label><input id="second" name="Current" required="in amps">
+            <label style="color: white;font-weight: bold;">Overloading Weight:</label><input id="third" name="OverWeight" required="required">
+            <label style="color: white;font-weight: bold;">C-rating:</label><input id="fourth" name="CRating" required="required">
+            <label style="color: white;font-weight: bold;">Age of battery:</label><input id="fifth" name="AgeOfBattery" required="required">
+                <label style="color: white;font-weight: bold;">Outside-Temperature:</label><input id="sixth" name="OutsideTemp" required="required">
+            <br><br>
+            <label style="color: white;font-weight: bold;">Auxiliary Load on Battery:</label><input id="seventh" name="AuxLoad" required="required">
+            <label style="color: white;font-weight: bold;">Reduced Range:</label><input id="eight" name="ReducedRange" required="required">
+            <label style="color: white;font-weight: bold;">Weekly Charge cycles:</label><input id="ninth" name="WeeklyChargeCycles" required="required">
+            <br>
+            <br>
+                                            <label style="color: white;font-weight: bold;">Charging Type:</label>
+                            <select name="ChargingType" id="ChargingType" required="required">
+                <option>--select--</option>
+                <option value="0">DC_FAST_CHARGING</option>
+                <option value="1">LEVEL_1</option>
+                <option value="2">LEVEL_2</option>
+            </select>
+                <br><br>
+            <label style="color: white;font-weight: bold;">Driving Area:</label>
+            <select name="DrivingCond" id="DrivingCond" required="required">
+                <option>--select--</option>
+                <option value="0">CITY_DAYLIGHT</option>
+                <option value="1">CITY_NIGHT</option>
+                <option value="2">HIGHWAY</option>
+                <option value="3">HILL</option>
+                <option value="4">RAINY</option>
+                <option value="5">SUBURBAN</option>
+            </select>
+                         <br><br>
+            <button id="sub" type="submit" class="btn btn-secondary btn-lg">Battery Breakdown?</button>
+            </div>
+        </form>
+
+            <br>
+            <div class="type" align='center'>
+                <h1 class="font-effect-fire">{{ prediction_text }}</h1>
+        </div>
+        <style>
+            #first {
+            border-radius: 10px;
+            height: 25px;
+            width: 90px;
+            font-size: 20px;
+            text-align: center;
+        }
+        #second {
+            border-radius: 10px;
+            height: 25px;
+            width: 90px;
+            font-size: 20px;
+            text-align: center;
+        }
+        #third {
+            border-radius: 10px;
+            height: 25px;
+            width: 90px;
+            font-size: 20px;
+            text-align: center;
+        }
+        #fourth {
+            border-radius: 10px;
+            height: 25px;
+            width: 90px;
+            font-size: 20px;
+            text-align: center;
+        }
+        #fifth {
+            border-radius: 10px;
+            height: 25px;
+            width: 90px;
+            font-size: 20px;
+            text-align: center;
+        }
+        #sixth {
+            border-radius: 10px;
+            height: 25px;
+            width: 90px;
+            font-size: 20px;
+            text-align: center;
+        }
+        #seventh {
+            border-radius: 10px;
+            height: 25px;
+            width: 90px;
+            font-size: 20px;
+            text-align: center;
+        }
+        #eight {
+            border-radius: 10px;
+            height: 25px;
+            width: 90px;
+            font-size: 20px;
+            text-align: center;
+        }
+        #ninth {
+            border-radius: 10px;
+            height: 25px;
+            width: 90px;
+            font-size: 20px;
+            text-align: center;
+        }
+        </style>        
+    </body>
+</html>
+    

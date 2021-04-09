@@ -1,0 +1,641 @@
+﻿Nominal Voltage(In Volts),Battery Current(in Amps),Extra Load(In Kgs),Electric vehicle(model),C-rating,No: of Charge cycles(weekly),Age of EV battery(in years),Driving Conditions,Type of Charging,Outside Temperature(in °C),Auxiliary Loads(in %),Reduced Range(in Kms),Output(Breakdown occurence)
+345,207,203,Renault Zoe,1.38,5,3,Highway,DC Fast Charging,32,8,20,No
+350,294.12,227,Mercedes - Benz EQC,1.29,3,1,Highway,Level 1,30,8,25,No
+430,297.47,303,Tesla Model X,1.51,5,1,Hill Station,Level 1,24,18,45,Yes
+380,215.65,242,Jaguar I-pace,0.95,4,1,City,DC Fast Charging,29,12,18,No
+385,350,234,Tesla Model S,1.02,4,4,Hill Station,Level 1,30,19,20,No
+350,60.96,242,Chevrolet Bolt,1.27,3,3,City,Level 1,35,14,23,No
+199,193.98,222,MW Motors Luka EV,1.59,4,3,Hill Station,Level 2,33,8,20,No
+292,135.68,236,Seat Mii Electric,1.28,2,2,City,Level 1,28,13,28,No
+367,268.8,203,Nio EC6,1.4,1,4,Hill Station,Level 2,27,12,29,No
+386,366.3,242,Nio ES6,1.65,1,3,Hill Station,Level 1,20,18,20,No
+320,80,231,Tata Nexon,1,3,1,City,DC Fast Charging,39,17,25,No
+100,22.1,233,Mahindra e20 (P8),0.85,5,3,Hill Road,DC Fast Charging,43,19,31,Yes
+375,315.24,216,Kia Soul,1.48,2,3,Highway,Level 1,27,10,29,No
+375,120,228,Tesla Model S,0.7,5,2,City Traffic,Level 1,35,15,21,No
+375,272.64,206,Kia Soul,1.28,3,1,City,DC Fast Charging,26,18,16,No
+304,161,213,Volkwagen e-Golf,1.75,5,4,Hill Road,DC Fast Charging,36,20,29,Yes
+390,115.32,249,SoNo motors Sion,1.24,1,3,Hill Station,Level 1,23,13,28,No
+422,257.04,241,Nio ES8,1.36,5,1,Hill Station,Level 2,26,16,23,No
+100,22.1,239,Mahindra e20 (P8),0.85,4,1,Hill Station,Level 2,32,17,23,No
+49,24.65,243,Mahindra e2o (P2),0.85,4,1,Hill Station,DC Fast Charging,31,19,17,No
+52,40.56,218,Mahindra e20 (P4),1.56,5,3,City,Level 1,26,14,30,No
+380,230,233,Audi e-tron 55,0.92,5,5,Hill Road,DC Fast Charging,40,15,25,Yes
+380,183.87,245,Jaguar I-pace,0.81,6,4,Hill Road,DC Fast Charging,42,16,34,Yes
+380,215,250,Audi e-tron 55,0.86,4,5,Hill Road,DC Fast Charging,42,20,28,Yes
+345,123,212,Hyundai Kona,1,4,4,Highway,Level 2,39,7,17,No
+55,100.58,243,Renault twizzy,0.94,3,3,Hill Station,DC Fast Charging,20,9,19,No
+307,195.84,206,Ford Focus Electric,1.44,1,2,City,Level 2,24,5,17,No
+392,325.05,238,Tesla Model X,1.65,2,1,Hill Station,Level 1,34,7,19,No
+350,389.88,232,Mercedes - Benz EQC,1.71,6,5,Hill Road,DC Fast Charging,-12,15,32,Yes
+350,115.62,208,BMW i3,1.23,2,3,Hill Station,Level 2,34,9,30,No
+377,359.64,207,Nio ES6,1.62,2,3,Hill Station,Level 2,-4,8,19,No
+423,334.53,213,Nio ES8,1.77,2,3,Highway,DC Fast Charging,33,12,18,No
+320,124.08,223,Tata Nexon,1.32,3,2,City,DC Fast Charging,22,19,24,No
+350,197.58,235,Nio ES6,0.89,3,2,Hill Station,Level 1,45,13,27,No
+252,227.12,201,Ford Focus Electric,1.67,2,4,Hill Station,Level 1,33,16,30,No
+363,346.32,213,Nio ES6,1.56,1,4,Hill Station,Level 2,33,18,18,No
+52,28.6,203,Mahindra e20 (P4),1.1,1,3,Highway,Level 1,34,8,15,No
+388,238.08,235,Nio EC6,1.24,5,2,City,Level 1,31,4,20,No
+320,94.375,206,Tata Nexon,1,2,20,City,DC Fast Charging,35,17,24,No
+210,126.88,214,MW Motors Luka EV,1.04,2,2,City,Level 2,21,18,18,No
+360,120,234,BMW i3,0.8,2,1,highway,DC Fast Charging,15,5,29,No
+316,218.96,213,Ford Focus Electric,1.61,3,3,City,Level 1,26,16,27,No
+375,452,221,Tesla Model S,2,4,8,Highway,Level 2,20,7,28,No
+273,220.32,247,Ford Focus Electric,1.62,4,2,City,DC Fast Charging,26,5,17,No
+347,114.48,217,Seat Mii Electric,1.08,4,3,Hill Road,DC Fast Charging,45,19,35,Yes
+400,246,304,Renault Zoe,1.64,4,1,City,Level 2,27,14,41,Yes
+356,113.36,209,Hyundai Kona,1.04,1,3,Hill Station,Level 2,34,17,20,No
+50,32.5,226,Mahindra e20 (P6),1.25,4,2,City,DC Fast Charging,35,17,28,No
+379,268.38,248,Nio ES8,1.42,3,3,Hill Station,Level 2,23,9,23,No
+360,120,236,BMW i3,1.2,3,6,city traffic,DC Fast Charging,22,6,15,No
+361,280,239,Hyundai Ioniq,0.5,5,2,Hill Station,DC Fast Charging,30,14,22,No
+356,118.81,246,Hyundai Kona,1.09,2,3,Hill Station,Level 2,35,10,30,No
+308,136.71,210,SoNo motors Sion,1.47,3,1,Highway,Level 2,24,17,29,No
+350,111,228,MG ZS,1,2,1,City,DC Fast Charging,33,10,18,No
+350,236.16,229,Nio EC6,1.23,6,3,Hill Road,DC Fast Charging,43,16,35,Yes
+400,290,228,Tesla Model Y,1,3,2,City,DC Fast Charging,13,5,29,No
+339,99.51,219,SoNo motors Sion,1.07,6,3,Hill Road,DC Fast Charging,37,18,31,Yes
+330,273.6,204,Aiways U5,1.44,5,3,City,Level 2,24,5,21,No
+320,84.6,248,Tata Nexon,0.9,5,3,Hill Road,DC Fast Charging,43,15,33,Yes
+350,126.9,250,BMW i3,1.35,5,5,Hill Road,DC Fast Charging,43,20,27,Yes
+334,132.5,205,Seat Mii Electric,1.25,4,4,Highway,DC Fast Charging,24,15,29,No
+100,44.72,247,Mahindra e20 (P8),1.72,3,4,Highway,Level 2,31,8,28,No
+385,220,240,Tesla Model S,2.25,3,1,Hill Station,Level 2,20,12,26,Yes
+296,96.46,222,Seat Mii Electric,0.91,4,4,City,Level 2,30,8,21,No
+360,270.27,246,Nio ES8,1.43,1,4,Hill Station,Level 1,34,4,21,No
+396,430.2,211,Audi e-tron 55,1.8,4,3,Hill Station,Level 2,27,8,20,No
+54,25.52,231,Mahindra e2o (P2),0.88,4,2,City,DC Fast Charging,27,18,28,No
+403,156.87,224,Nio ES8,0.83,6,4,Hill Road,DC Fast Charging,42,15,29,Yes
+350,150,209,Chevrolet Bolt,0.8,4,5,Hill Road,DC Fast Charging,42,20,30,Yes
+365,122.76,237,SoNo motors Sion,1.32,2,3,Highway,Level 1,30,16,28,No
+55,117.7,249,Renault twizzy,1.1,1,3,City,DC Fast Charging,22,14,23,No
+396,259.2,227,Nio EC6,1.35,5,2,Hill Station,Level 1,34,16,27,No
+400,267.41,238,Tesla Model Y,1.43,2,2,Hill Station,DC Fast Charging,33,8,18,No
+350,92.12,245,BMW i3,0.98,2,1,Hill Station,Level 2,35,17,22,No
+345,222,206,Renault Zoe,1.48,1,1,Hill Station,DC Fast Charging,35,12,17,No
+351,280,229,Tesla Model X,2.02,1,1,City,Level 2,28,6,18,Yes
+391,155.48,229,Volkwagen e-Golf,1.69,6,3,Hill Road,DC Fast Charging,38,17,30,Yes
+360,157.32,218,Nissan Leaf,1.14,2,2,Highway,Level 2,22,17,22,No
+396,317.87,211,Audi e-tron 55,1.33,1,3,Highway,Level 1,25,15,29,No
+400,168,324,Renault Zoe,1.12,5,3,Hill Station,Level 2,23,14,50,Yes
+292,176.8,219,Ford Focus Electric,1.3,3,1,City,Level 2,35,11,27,No
+252,184.96,201,Ford Focus Electric,1.36,4,2,City,Level 2,27,8,30,No
+100,22.62,204,Mahindra e20 (P8),0.87,4,5,Hill Road,DC Fast Charging,37,18,26,Yes
+355,135.24,225,Volkwagen e-Golf,1.47,4,3,Highway,Level 2,4,11,18,No
+50,28.08,204,Mahindra e20 (P6),1.08,3,4,Hill Station,DC Fast Charging,32,14,30,No
+385,290.4,222,Tesla Model S,1.32,4,1,Highway,Level 2,33,16,28,No
+400,120,304,BMW I3,0.75,3,1,Hill station,Level 1,35,12,44,Yes
+59,159.43,225,Renault twizzy,1.49,5,3,Hill Road,DC Fast Charging,40,18,31,Yes
+394,92,237,MG ZS,1.2,4,1,Highway,DC Fast Charging,49,12,15,No
+336,172.78,215,Seat Mii Electric,1.63,5,2,City,DC Fast Charging,33,11,20,No
+380,322.34,322,Jaguar I-pace,1.42,1,4,Highway,Level 1,26,14,47,Yes
+359,224.58,232,Tesla Model X,1.14,5,1,Hill Station,Level 2,30,16,29,No
+150,22.62,329,Mahindra e20 (P8),0.87,4,3,Highway,Level 1,30,5,50,Yes
+350,130,241,TATA Nexon,1.2,3,3,Highway,DC Fast Charging,30,10,19,No
+100,44.2,209,Mahindra e20 (P8),1.7,4,5,Hill Road,DC Fast Charging,44,20,33,Yes
+351,176.64,238,Nio EC6,0.92,1,3,Highway,Level 2,31,9,20,No
+390,375,228,Tesla Model 3(Std Range),1,3,3,Rain/Low Visibility,Level 2,15,15,29,No
+395,323.19,240,Nio ES8,1.71,3,3,City,Level 1,32,19,29,No
+396,375.23,225,Audi e-tron 55,1.57,4,2,City,DC Fast Charging,20,13,19,No
+400,261,203,Tesla Model Y,1.4,1,3,City,DC Fast Charging,24,14,21,No
+350,75,216,Chevrolet Bolt,0.3,4,4,Hill Road,DC Fast Charging,-4,15,35,Yes
+350,60.96,223,Chevrolet Bolt,1.27,3,3,City,Level 1,35,19,15,No
+215,167.14,222,MW Motors Luka EV,1.37,1,4,Highway,DC Fast Charging,23,15,21,No
+197,161.04,226,MW Motors Luka EV,1.32,4,4,City,DC Fast Charging,29,7,19,No
+392,259.74,248,Nio ES6,1.17,4,2,Highway,Level 1,21,16,20,No
+358,297.48,208,Nio ES6,1.34,2,4,Highway,Level 1,33,16,23,No
+375,225,229,Tesla Model S,1.1,2,2,City,Level 1,26,10,16,No
+202,168.36,239,MW Motors Luka EV,1.38,2,4,Highway,DC Fast Charging,35,7,21,No
+59,97.37,203,Renault twizzy,0.91,2,3,Hill Station,DC Fast Charging,26,6,28,No
+298,138,245,Seat Mii Electric,1.3,3,3,City,Level 1,35,10,27,No
+368,253.44,226,Nio EC6,1.32,2,2,Hill Station,Level 2,23,16,21,No
+100,31.98,217,Mahindra e20 (P8),1.23,5,1,City,DC Fast Charging,23,11,24,No
+350,76.32,242,Chevrolet Bolt,1.59,4,3,Hill Station,Level 1,-5,11,26,No
+350,215.46,239,Nio ES8,1.14,2,1,Hill Station,Level 2,25,14,20,No
+360,110.4,222,Nissan Leaf,0.8,4,4,City,Level 2,23,13,29,No
+356,130,224,Hyundai Kona,1.2,3,2,Highway Driving,Level 2,35,8,27,No
+60,92.02,230,Renault twizzy,0.86,3,4,City,DC Fast Charging,34,6,20,No
+500,225,204,Nissan Leaf,1.5,8,3,City,DC Fast Charging,45,5,16,No
+350,161.4678,215,MG ZS,1.27,3,3,City,DC Fast Charging,29,8,19,No
+48,200,235,Mahindra e2o (P2),1,4,2,City,DC Fast Charging,25,5,15,No
+201,137.86,244,MW Motors Luka EV,1.13,5,4,Hill Road,DC Fast Charging,36,19,28,Yes
+350,209.76,218,Mercedes - Benz EQC,0.92,1,4,City,Level 2,3,5,25,No
+400,284.24,219,Tesla Model Y,1.52,5,2,Highway,Level 2,23,9,25,No
+360,110.4,246,Nissan Leaf,0.8,1,3,Hill Station,DC Fast Charging,33,6,15,No
+375,102.3,203,SoNo motors Sion,1.1,4,4,Hill Station,Level 1,21,19,22,No
+345,150,200,Renault Zoe,2.48,1,1,City,DC Fast Charging,25,5,23,Yes
+375,257.73,221,Kia Soul,1.21,5,2,Highway,Level 1,27,12,24,No
+254,243.44,213,Ford Focus Electric,1.79,5,4,Hill Station,Level 2,28,15,26,No
+356,220,202,Hyundai Kona,2.41,2,3,City,Level 1,28,11,19,Yes
+100,20.8,209,Mahindra e20 (P8),0.8,6,3,Hill Road,DC Fast Charging,-12,19,26,Yes
+350,81.6,227,Chevrolet Bolt,1.7,2,3,City,DC Fast Charging,45,4,18,No
+300,179,214,Seat Mii Electric,1.4,2,4,City,Level 1,20,8,16,No
+350,300,202,Tesla Model 3(Mid Range),2,4,4,City,Level 2,32,8,25,No
+350,78.96,236,BMW i3,0.84,2,2,Hill Station,DC Fast Charging,31,7,18,No
+280,210,218,Kia Soul,1,3,3,City,Level 1,25,6,25,No
+100,44.2,239,Mahindra e20 (P8),1.7,4,4,City,Level 2,35,12,20,No
+54,23.14,216,Mahindra e20 (P6),0.89,3,4,Hill Station,Level 2,28,13,15,No
+451,240.03,216,Nio ES8,1.27,1,3,Highway,Level 2,26,6,20,No
+287,121.04,230,Ford Focus Electric,0.89,2,1,Hill Station,Level 2,29,14,20,No
+212,132.98,213,MW Motors Luka EV,1.09,3,2,Hill Station,DC Fast Charging,30,6,27,No
+49,35.1,224,Mahindra e20 (P6),1.35,3,3,Highway,DC Fast Charging,33,17,24,No
+413,264.6,243,Nio ES8,1.4,3,2,City,DC Fast Charging,20,8,23,No
+365,286.08,211,Nio EC6,1.49,5,2,Highway,Level 1,26,18,18,No
+500,125,229,Nissan Leaf,0.5,5,2,City Daylight,DC Fast Charging,35,5,20,No
+360,193.2,245,Nissan Leaf,1.4,3,2,Hill Station,Level 2,33,11,15,No
+280,152.32,215,Ford Focus Electric,1.12,2,3,Highway,DC Fast Charging,29,17,15,No
+360,178.02,212,Nissan Leaf,1.29,4,2,Hill Station,Level 2,25,15,19,No
+311,143.52,209,Volkwagen e-Golf,1.56,4,5,Hill Road,DC Fast Charging,-5,18,32,Yes
+350,228,245,Mercedes - Benz EQC,2,1,6,City,DC Fast Charging,-10,12,30,No
+375,366.36,202,Kia Soul,1.72,1,3,City,DC Fast Charging,32,14,29,No
+380,263.32,247,Jaguar I-pace,1.16,1,3,City,Level 1,34,5,15,No
+320,100,222,Tata Nexon,1.15,3,3,hill station,DC Fast Charging,3,10,22,No
+376,146.94,236,SoNo motors Sion,1.58,2,4,Hill Station,Level 2,25,12,29,No
+320,120,208,Tata Nexon,2.08,5,2,City,DC Fast Charging,25,5,27,Yes
+375,139.84,204,Volkwagen e-Golf,1.52,4,4,Hill Road,DC Fast Charging,45,18,34,Yes
+400,350.76,329,Nio ES6,1.58,1,4,Hill Station,Level 2,28,4,44,Yes
+100,55,225,Mahindra e20 (P8),2.18,4,2,Highway,Level 2,27,14,20,Yes
+420,350,209,Jaguar I-pace,1.2,3,2,City,Level 1,27,8,20,No
+392,350.66,233,Tesla Model X,1.78,6,4,Hill Road,DC Fast Charging,38,16,34,Yes
+330,340.1,213,Aiways U5,1.79,5,5,Hill Road,DC Fast Charging,45,15,29,Yes
+50,22.1,215,Mahindra e20 (P6),0.85,5,3,City,DC Fast Charging,5,7,30,No
+360,172.8,240,Nio EC6,0.9,4,4,Hill Road,DC Fast Charging,35,18,33,Yes
+375,144,240,Kia Soul,2,2,2,City,DC Fast Charging,20,6,22,No
+48,39.73,200,Mahindra e2o (P2),1.37,3,4,Highway,Level 1,24,8,19,No
+396,353.72,218,Audi e-tron 55,1.48,1,1,Highway,DC Fast Charging,26,12,29,No
+53,39.52,212,Mahindra e20 (P4),1.52,6,4,Hill Road,DC Fast Charging,-13,17,33,Yes
+320,77.08,214,Tata Nexon,0.82,5,2,Hill Station,Level 2,33,14,24,No
+310,75,206,Chevrolet Bolt,1,1,2,City,Level 1,25,9,19,No
+232,174.08,204,Ford Focus Electric,1.28,7,4,Hill Road,DC Fast Charging,37,15,25,Yes
+350,83.66,246,BMW i3,0.89,2,3,Hill Station,Level 2,34,11,26,No
+389,460,223,Jaguar I-pace,2,3,2,City,DC Fast Charging,20,14,23,No
+360,320,249,Tesla Model X,1.1,2,3,City,DC Fast Charging,30,9,24,No
+350,332.88,248,Mercedes - Benz EQC,1.46,4,3,Hill Station,Level 2,27,18,21,No
+345,208.5,229,Renault Zoe,1.39,3,4,City,Level 2,35,10,16,No
+396,382.4,243,Audi e-tron 55,1.6,5,3,Hill Station,Level 2,30,13,29,No
+330,178.6,210,Aiways U5,0.94,4,1,Highway,Level 1,31,12,18,No
+100,31.98,240,Mahindra e20 (P8),1.23,4,4,City,Level 1,35,9,25,No
+372,260.04,209,Tesla Model X,1.32,1,2,Hill Station,DC Fast Charging,34,12,25,No
+350,300,202,Nio EC6,1.25,2,4,Highway,DC Fast Charging,25,10,25,No
+400,269.28,217,Tesla Model Y,1.44,4,3,City,Level 1,29,16,15,No
+420,452,316,Tesla Model S,2,4,5,Highway,DC Fast Charging,19,7,48,Yes
+378,112.24,250,Volkwagen e-Golf,1.22,1,1,Hill Station,Level 1,-7,19,18,No
+352,120,248,BMW I3,1,2,1,City,Level 1,30,10,15,No
+430,265,210,Nissan Leaf,0.95,4,3,City,DC Fast Charging,35,7,24,No
+385,270.6,211,Tesla Model S,1.23,5,4,Hill Road,DC Fast Charging,36,19,28,Yes
+400,150,314,Renault Zoe,1.5,5,6,Hill road,Level 2,30,15,44,Yes
+366,330.24,241,Nio EC6,1.72,1,4,City,Level 1,33,8,27,No
+385,345.6,231,Nio EC6,1.8,2,3,City,Level 2,28,4,24,No
+380,236.08,218,Jaguar I-pace,1.04,4,1,City,DC Fast Charging,28,11,21,No
+376,166.32,221,Nio ES8,0.88,6,5,Hill Road,DC Fast Charging,-12,20,30,Yes
+430,432.5,324,Audi e-tron 55,1.73,3,2,City,Level 2,34,8,43,Yes
+356,130.8,249,Hyundai Kona,1.2,4,4,Hill Road,DC Fast Charging,35,15,29,Yes
+365,342.78,241,Tesla Model X,1.74,3,3,Hill Station,Level 2,22,15,26,No
+54,37.7,217,Mahindra e20 (P6),1.45,5,2,Highway,DC Fast Charging,23,18,26,No
+380,335,240,Audi e-tron 55,1.34,7,3,Hill Road,DC Fast Charging,45,19,35,Yes
+350,154.38,308,SoNo motors Sion,1.66,1,1,City,Level 1,23,16,41,Yes
+352,120,237,BMW I3,1,3,2,Hill station,DC Fast Charging,5,15,22,No
+315,150,250,Renault Zoe,1,3,3,City,Level 2,10,15,20,No
+400,261.8,241,Tesla Model Y,1.4,6,3,Hill Road,DC Fast Charging,40,19,31,Yes
+207,192.76,215,MW Motors Luka EV,1.58,5,4,City,Level 2,29,18,19,No
+360,194.58,215,Nissan Leaf,1.41,5,5,Hill Road,DC Fast Charging,-8,19,25,Yes
+356,164.59,231,Hyundai Kona,1.51,2,2,Hill Station,Level 2,30,4,28,No
+352,264.96,206,Nio EC6,1.38,1,1,Hill Station,Level 2,27,4,27,No
+430,170.1,310,Nio ES8,0.9,1,3,City,Level 1,31,19,46,Yes
+330,323,247,Aiways U5,1.7,5,4,Hill Road,DC Fast Charging,44,20,34,Yes
+309,148.4,248,Seat Mii Electric,1.4,2,2,City,Level 2,20,7,20,No
+320,150,234,Tata Nexon,1,6,4,Hill Road,DC Fast Charging,43,19,29,Yes
+464,220,213,Nio ES8,2.01,2,1,City,Level 1,20,7,22,Yes
+384,237.54,246,Nio ES6,1.07,3,4,Highway,Level 1,26,19,18,No
+375,452,226,Tesla Model S,2,6,5,Hill Road,DC Fast Charging,42,18,27,Yes
+394,282.24,217,Nio EC6,1.47,4,2,Hill Station,Level 2,30,16,22,No
+49,32.48,250,Mahindra e2o (P2),1.12,1,3,Highway,Level 2,29,15,28,No
+100,33.64,313,Mahindra e2o (P2),1.16,2,4,Hill Station,DC Fast Charging,33,8,40,Yes
+385,305.8,203,Tesla Model S,1.39,4,4,Hill Station,Level 1,22,19,24,No
+322,167.4,201,SoNo motors Sion,1.8,6,3,Hill Road,DC Fast Charging,36,18,29,Yes
+397,259.2,246,Nio EC6,1.35,2,4,Hill Station,DC Fast Charging,25,11,18,No
+330,210.9,242,Aiways U5,1.11,2,1,Hill Station,Level 1,23,15,18,No
+350,75.84,237,Chevrolet Bolt,1.58,3,3,Hill Station,DC Fast Charging,35,5,16,No
+380,211.11,223,Jaguar I-pace,0.93,6,3,Hill Road,DC Fast Charging,-11,17,28,Yes
+330,271.7,224,Aiways U5,1.43,6,3,Hill Road,DC Fast Charging,-14,16,34,Yes
+220,58.62,240,Tata Tigor,0.6,4,1,Hill station,Level 1,30,9,17,No
+330,302.1,225,Aiways U5,1.59,6,5,Hill Road,DC Fast Charging,37,19,34,Yes
+356,116.63,247,Hyundai Kona,1.07,5,1,Hill Station,Level 2,26,9,26,No
+387,255.36,211,Nio EC6,1.33,4,1,Hill Station,DC Fast Charging,25,5,22,No
+330,222.3,248,Aiways U5,1.17,4,1,Highway,Level 1,28,14,17,No
+360,245.64,227,Nissan Leaf,1.78,4,3,Hill Station,Level 1,25,6,23,No
+380,215,234,Audi e-tron 55,0.86,2,4,Hill Station,Level 2,21,14,17,No
+380,372.5,230,Audi e-tron 55,1.49,2,3,Highway,DC Fast Charging,26,5,18,No
+430,240.03,206,Nio ES8,1.27,5,1,Hill Station,Level 2,22,7,22,No
+372,222,248,Nio ES6,1,5,2,Highway,DC Fast Charging,22,17,21,No
+49,44.72,222,Mahindra e20 (P6),1.72,3,4,City,DC Fast Charging,30,5,29,No
+50,190,218,Mahindra e2o (P6),1,6,4,Hill Road,DC Fast Charging,36,15,32,Yes
+48,29.64,208,Mahindra e20 (P6),1.14,2,3,Hill Station,Level 1,-4,5,22,No
+50,34.58,245,Mahindra e20 (P4),1.33,3,2,Hill Station,Level 2,21,18,24,No
+211,197.64,237,MW Motors Luka EV,1.62,2,1,Highway,Level 1,22,8,28,No
+100,39.78,243,Mahindra e20 (P8),1.53,2,4,Highway,Level 2,35,19,23,No
+345,150,242,Renault Zoe,1,2,3,City,Level 2,-10,15,24,No
+396,400,217,Audi e-tron 55,2.21,5,3,Highway,DC Fast Charging,24,7,29,Yes
+253,155.04,242,Ford Focus Electric,1.14,5,4,Hill Road,DC Fast Charging,43,20,29,Yes
+372,344.1,207,Nio ES6,1.55,3,4,Hill Station,DC Fast Charging,56,8,30,No
+218,104.9,210,MW Motors Luka EV,0.86,1,1,Hill Station,DC Fast Charging,21,10,20,No
+396,327.43,204,Audi e-tron 55,1.37,4,5,Hill Road,DC Fast Charging,-3,16,34,Yes
+380,358.66,238,Jaguar I-pace,1.58,5,3,Hill Station,Level 2,34,7,18,No
+329,185.5,212,Seat Mii Electric,1.75,7,3,Hill Road,DC Fast Charging,40,17,30,Yes
+350,200.8812,245,MG ZS,1.58,1,4,City,Level 1,45,13,23,No
+361,244.2,248,Nio ES6,1.1,3,2,Highway,DC Fast Charging,22,6,23,No
+400,252.45,234,Tesla Model Y,1.35,4,5,Hill Road,DC Fast Charging,-4,17,33,Yes
+400,170,215,MG ZS,1.5,2,3,City,DC Fast Charging,30,5,24,No
+49,28.86,225,Mahindra e20 (P6),1.11,2,1,City,DC Fast Charging,23,6,15,No
+61,115.56,226,Renault twizzy,1.08,5,3,Hill Station,Level 2,35,15,30,No
+350,305.52,207,Mercedes - Benz EQC,1.34,2,2,City,Level 1,32,15,18,No
+346,187.62,206,Seat Mii Electric,1.77,1,1,City,Level 1,34,12,25,No
+380,388.17,242,Jaguar I-pace,1.71,3,3,Highway,DC Fast Charging,21,10,28,No
+72,170,209,Mahindra e2o (P8),1,4,3,City,DC Fast Charging,26,6,16,No
+345,228,204,Renault Zoe,1.52,3,3,City,Level 2,31,6,18,No
+51,33.8,219,Mahindra e20 (P4),1.3,4,3,Hill Road,DC Fast Charging,39,17,35,Yes
+294,161.12,243,Seat Mii Electric,1.52,4,1,Highway,Level 1,26,8,27,No
+316,116.25,223,SoNo motors Sion,1.25,4,1,Hill Station,Level 2,33,17,28,No
+420,200,227,Tesla Model Y,1,1,8,Rain/Low Visibility,DC Fast Charging,15,5,20,No
+56,87.74,235,Renault twizzy,0.82,7,4,Hill Road,DC Fast Charging,-11,19,31,Yes
+350,300,245,Tesla Model 3(Long range),2,2,5,City,DC Fast Charging,40,10,18,No
+356,196.2,248,Hyundai Kona,1.8,4,4,City,Level 2,31,19,28,No
+466,151.2,250,Nio ES8,0.8,2,3,Hill Station,DC Fast Charging,21,4,21,No
+396,265.29,237,Audi e-tron 55,1.11,1,2,Hill Station,Level 2,31,9,23,No
+375,244.95,200,Kia Soul,1.15,1,1,City,Level 2,35,15,15,No
+49,41.86,234,Mahindra e20 (P6),1.61,2,4,Highway,DC Fast Charging,6,11,16,No
+320,130,216,MG ZS,1.19,4,3,City,DC Fast Charging,22,14,29,No
+340,110,222,BMW I3,1.2,2,2,Suburban,Level 1,35,8,17,No
+48,75,226,Mahindra e2o (P2),2.16,5,4,City,Level 2,-6,18,26,Yes
+375,202.35,215,Kia Soul,0.95,4,1,Highway,Level 2,20,15,16,No
+350,120,233,BMW i3,1.3,3,4,Highway,Level 2,23,12,23,No
+300,85,222,Tata Nexon,0.65,2,2,City,Level 2,30,8,25,No
+350,371.64,207,Mercedes - Benz EQC,1.63,4,3,Hill Station,DC Fast Charging,20,12,20,No
+395,202.91,206,Tesla Model X,1.03,5,3,Hill Station,DC Fast Charging,27,4,16,No
+340,670,218,Tesla Model 3,1.2,5,2,City,DC Fast Charging,27,3,19,No
+362,340.81,235,Tesla Model X,1.73,2,2,City,Level 2,34,4,23,No
+396,298.75,229,Audi e-tron 55,1.25,3,1,Highway,Level 2,34,7,28,No
+350,300,238,Chevrolet Bolt,1.5,7,5,Hill station,Level 2,-15,20,24,No
+50,26.78,211,Mahindra e20 (P4),1.03,1,1,Hill Station,Level 2,35,9,17,No
+396,32,237,Audi e-tron 55,1,3,1,Suburban,DC Fast Charging,30,10,19,No
+380,385,209,Audi e-tron 55,1.54,6,3,Hill Road,DC Fast Charging,-8,18,30,Yes
+317,138.86,230,Seat Mii Electric,1.31,4,3,City,DC Fast Charging,36,9,28,No
+293,145.22,231,Seat Mii Electric,1.37,2,1,City,Level 2,29,18,16,No
+400,293.59,201,Tesla Model Y,1.57,4,2,Highway,Level 1,33,6,30,No
+359,270.84,224,Nio ES6,1.22,4,1,City,Level 1,27,12,22,No
+385,198,232,Tesla Model S,0.9,4,3,Hill Road,DC Fast Charging,-13,20,28,Yes
+61,159.43,238,Renault twizzy,1.49,6,4,Hill Road,DC Fast Charging,37,19,34,Yes
+65,131.61,242,Renault twizzy,1.23,2,4,Highway,Level 1,28,9,28,No
+301,125.12,206,Volkwagen e-Golf,1.36,3,2,City,DC Fast Charging,23,10,19,No
+309,87.98,205,Seat Mii Electric,0.83,5,1,City,Level 2,26,16,17,No
+394,334.08,246,Nio EC6,1.74,3,4,City,Level 2,29,16,22,No
+356,130,238,Hyundai Kona,2.17,4,2,City,DC Fast Charging,22,10,26,Yes
+490,200,212,Nissan Leaf,1.5,5,4,City,DC Fast Charging,45,20,17,No
+330,203.3,210,Aiways U5,1.07,1,4,Highway,Level 1,30,15,26,No
+100,39.26,243,Mahindra e20 (P8),1.51,6,3,Hill Road,DC Fast Charging,39,15,26,Yes
+324,103.04,237,Volkwagen e-Golf,1.12,6,4,Hill Road,DC Fast Charging,35,19,27,Yes
+393,275,243,Nio ES8,2.16,5,1,Highway,DC Fast Charging,25,16,18,Yes
+350,129.6828,231,MG ZS,1.02,1,3,Hill Station,DC Fast Charging,23,18,26,No
+350,362.5,223,Mercedes - Benz EQC,1.59,3,3,City,Level 2,33,12,25,No
+388,256.1,214,Tesla Model X,1.3,1,1,City,Level 2,21,16,20,No
+100,44.72,230,Mahindra e20 (P8),1.72,5,3,Hill Road,DC Fast Charging,45,18,25,Yes
+385,369.6,209,Tesla Model S,1.68,5,1,Hill Station,Level 1,30,16,29,No
+323,103.2,212,SoNo motors Sion,1.11,3,4,Hill Station,Level 1,25,10,20,No
+420,200,207,Tesla Model Y,1,7,5,City Night,DC Fast Charging,25,20,30,No
+383,186.48,249,Nio ES6,0.84,4,4,City,DC Fast Charging,21,19,25,No
+219,156.16,240,MW Motors Luka EV,1.28,5,4,Highway,DC Fast Charging,22,10,24,No
+380,96.72,231,SoNo motors Sion,1.04,4,1,Highway,DC Fast Charging,22,9,24,No
+58,118.77,212,Renault twizzy,1.11,4,4,Hill Station,DC Fast Charging,23,7,17,No
+400,120,324,BMW I3,0.5,2,1,Highway,DC Fast Charging,45,10,44,Yes
+48,200,220,Mahindra e2o (P2),1,5,5,Hill Road,DC Fast Charging,-9,17,30,Yes
+385,347.6,234,Tesla Model S,1.58,2,4,Highway,Level 2,23,18,17,No
+218,104.92,227,MW Motors Luka EV,0.86,1,1,Hill Station,DC Fast Charging,21,16,20,No
+396,368.06,216,Audi e-tron 55,1.54,5,4,Highway,DC Fast Charging,34,16,28,No
+420,200,209,Tesla Model Y,1,1,2,Rain/Low Visibility,DC Fast Charging,15,5,18,No
+400,286.08,212,Nio EC6,1.49,4,4,Highway,Level 2,34,12,25,No
+356,100.28,237,Hyundai Kona,0.92,3,3,Highway,Level 2,32,15,17,No
+345,120,243,Renault Zoe,0.8,3,5,Hill station,Level 2,2,8,28,No
+428,326.97,203,Nio ES8,1.73,4,3,City,Level 1,27,16,22,No
+360,15,211,Nissan Leaf,1,2,2,Highway Driving,Level 2,25,7,18,No
+231,152.32,235,Ford Focus Electric,1.12,3,3,City,Level 2,22,17,16,No
+330,170.66,234,Seat Mii Electric,1.61,1,4,Highway,DC Fast Charging,32,13,17,No
+315,160,216,Renault Zoe,1,3,2,Hill,Level 2,10,8,28,No
+54,39.52,249,Mahindra e20 (P4),1.52,2,4,City,DC Fast Charging,22,17,18,No
+350,226.3092,243,MG ZS,1.78,6,5,Hill Road,DC Fast Charging,43,20,26,Yes
+214,145.18,221,MW Motors Luka EV,1.19,3,2,Hill Station,Level 1,27,17,27,No
+53,42.38,216,Mahindra e20 (P6),1.63,4,2,Highway,Level 2,30,12,29,No
+400,316.03,202,Tesla Model Y,1.69,3,3,City,DC Fast Charging,26,12,23,No
+250,85,243,Hyundai Kona,0.75,2,2,City,Level 2,30,10,29,No
+57,107,227,Renault twizzy,1,4,3,City,Level 2,-2,10,29,No
+375,195.96,243,Kia Soul,0.92,3,3,City,Level 1,25,9,22,No
+231,144.16,243,Ford Focus Electric,1.06,4,4,Hill Station,DC Fast Charging,24,12,22,No
+356,163.5,216,Hyundai Kona,1.5,1,3,Highway,DC Fast Charging,34,7,23,No
+396,358,221,Audi e-tron 55,1.5,2,2,City,DC Fast Charging,25,14,25,No
+375,179.27,244,Tesla Model X,0.91,4,3,Hill Road,DC Fast Charging,35,16,30,Yes
+350,199.6098,203,MG ZS,1.57,4,4,Hill Road,DC Fast Charging,35,16,28,Yes
+49,29.29,235,Mahindra e2o (P2),1.01,5,4,Highway,DC Fast Charging,24,17,28,No
+375,217.26,248,Kia Soul,1.02,5,1,Highway,Level 2,25,19,18,No
+396,344.16,218,Audi e-tron 55,1.44,2,2,Hill Station,Level 2,24,11,28,No
+232,174,235,Ford Focus Electric,1.28,3,4,Highway,Level 1,26,13,25,No
+100,40.82,238,Mahindra e20 (P8),1.57,4,1,City,DC Fast Charging,24,18,28,No
+54,180,227,Mahindra e2o (P4),1,5,3,City,DC Fast Charging,33,2,29,No
+350,310.08,203,Mercedes - Benz EQC,1.36,4,1,Highway,Level 1,26,15,25,No
+356,128.62,242,Hyundai Kona,1.18,1,1,City,Level 1,29,19,18,No
+350,153.8394,221,MG ZS,1.21,4,3,Hill Road,DC Fast Charging,44,18,26,Yes
+52,24.96,219,Mahindra e20 (P6),0.96,1,3,Highway,Level 1,35,16,18,No
+396,278.4,223,Nio EC6,1.45,3,3,City,Level 2,26,19,23,No
+360,238.74,242,Nissan Leaf,1.73,5,3,City,Level 2,22,4,16,No
+350,147.58,217,BMW i3,1.57,2,4,City,Level 2,34,9,29,No
+350,316.92,236,Mercedes - Benz EQC,1.39,5,2,Hill Station,Level 1,34,10,25,No
+385,301.4,230,Tesla Model S,1.37,5,4,Hill Road,DC Fast Charging,42,16,25,Yes
+63,85.6,236,Renault twizzy,0.8,3,2,Hill Station,Level 2,27,9,20,No
+383,140.43,232,SoNo motors Sion,1.51,5,3,Highway,Level 2,23,18,18,No
+430,130,235,Nissan Leaf,1.2,3,2,City,level 1,15,13,19,No
+356,91.56,244,Hyundai Kona,0.84,5,3,City,Level 1,30,13,21,No
+380,240,238,Audi e-tron 55,0.96,6,5,Hill Road,DC Fast Charging,41,17,28,Yes
+320,86.48,213,Tata Nexon,0.92,3,2,City,Level 1,29,15,25,No
+52,44.37,215,Mahindra e2o (P2),1.53,5,3,Hill Station,DC Fast Charging,28,9,15,No
+380,358.66,204,Jaguar I-pace,1.58,4,4,Highway,Level 2,25,8,26,No
+306,128.26,209,Seat Mii Electric,1.21,4,4,Hill Station,Level 1,33,10,25,No
+300,132.99,248,SoNo motors Sion,1.43,3,2,Highway,Level 1,25,18,23,No
+356,90.47,207,Hyundai Kona,0.83,5,3,Hill Road,DC Fast Charging,39,16,30,Yes
+64,123.05,212,Renault twizzy,1.15,2,1,City,Level 2,20,17,22,No
+204,132.98,237,MW Motors Luka EV,1.09,5,5,Hill Road,DC Fast Charging,41,20,26,Yes
+364,392.94,236,Nio ES6,1.77,3,3,Highway,Level 1,31,16,19,No
+389,120,226,Jaguar I-pace,0.5,2,1,City Traffic,DC Fast Charging,35,5,24,No
+60,110,202,Renault twizzy,1,2,1,City,Level 2,20,11,22,No
+360,152.72,239,Volkwagen e-Golf,1.66,3,1,City,Level 1,-5,15,22,No
+387,235.32,241,Nio ES6,1.06,1,2,Highway,Level 1,26,16,20,No
+378,336.87,216,Tesla Model X,1.71,2,3,Hill Station,Level 2,34,18,25,No
+381,214.73,221,Tesla Model X,1.09,4,1,Hill Station,DC Fast Charging,20,8,17,No
+420,200,226,Tesla Model Y,1,1,2,Rain/Low Visibility,DC Fast Charging,15,5,25,No
+362,214.73,228,Tesla Model X,1.09,3,3,Highway,Level 1,24,18,28,No
+350,77.28,248,Chevrolet Bolt,1.61,4,1,Highway,Level 2,4,5,16,No
+375,266.25,209,Kia Soul,1.25,2,2,Highway,Level 1,23,11,27,No
+48,49.88,214,Mahindra e2o (P2),1.72,4,3,Hill Road,DC Fast Charging,41,18,26,Yes
+339,137.64,247,SoNo motors Sion,1.48,3,1,Hill Station,Level 2,27,14,18,No
+51,43.5,211,Mahindra e2o (P2),1.5,5,1,Highway,DC Fast Charging,35,16,29,No
+356,287.62,207,Tesla Model X,1.46,7,5,Hill Road,DC Fast Charging,-5,19,29,Yes
+344,93.93,217,SoNo motors Sion,1.01,5,1,Highway,DC Fast Charging,26,15,21,No
+200,106.14,204,MW Motors Luka EV,0.87,5,3,Highway,Level 2,31,5,21,No
+380,340,238,Tesla Model 3,1,3,2,City,Level 2,11,15,30,No
+61,77.04,223,Renault twizzy,0.72,5,3,City,Level 2,22,19,28,No
+250,65,249,Nissan Leaf,0.75,5,2,City Daylight,DC Fast Charging,35,7,29,No
+355,386.28,249,Nio ES6,1.74,2,1,Hill Station,Level 1,30,15,20,No
+48,200,243,Mahindra e2o (P6),1,3,2,City,DC Fast Charging,10,11,19,No
+350,319.2,201,Mercedes - Benz EQC,1.4,7,4,Hill Road,DC Fast Charging,44,20,25,Yes
+350,85.92,214,Chevrolet Bolt,1.79,4,1,Hill Station,DC Fast Charging,-2,4,24,No
+54,49.88,224,Mahindra e2o (P2),1.72,2,1,City,DC Fast Charging,29,12,17,No
+350,181.8102,217,MG ZS,1.43,5,3,Hill Road,DC Fast Charging,40,16,29,Yes
+387,186.48,212,Nio ES6,0.84,3,1,Highway,DC Fast Charging,22,13,24,No
+356,156.96,204,Hyundai Kona,1.44,5,1,Highway,DC Fast Charging,29,12,26,No
+352,120,235,BMW I3,1,5,1,Hill Road,DC Fast Charging,41,20,28,Yes
+330,336.3,200,Aiways U5,1.77,1,2,Hill Station,DC Fast Charging,26,7,22,No
+350,394.44,243,Mercedes - Benz EQC,1.73,2,3,Highway,Level 1,25,7,23,No
+500,250,211,Nissan Leaf,1,7,3,City Daylight,DC Fast Charging,40,15,22,No
+54,39.52,222,Mahindra e20 (P6),1.52,1,1,Hill Station,DC Fast Charging,30,7,22,No
+320,85.54,217,Tata Nexon,0.91,3,3,City,Level 2,31,9,17,No
+390,147.58,311,BMW i3,1.57,5,2,Highway,DC Fast Charging,33,10,46,Yes
+50,38.22,227,Mahindra e20 (P4),1.47,1,1,Highway,Level 1,35,18,16,No
+56,85.6,213,Renault twizzy,0.8,1,2,Highway,Level 2,22,14,18,No
+400,160.82,231,Tesla Model Y,0.86,5,4,Hill Road,DC Fast Charging,38,19,26,Yes
+320,107.16,212,Tata Nexon,1.14,4,2,City,Level 1,24,19,28,No
+395,109.48,225,Volkwagen e-Golf,1.19,5,2,Highway,DC Fast Charging,22,9,27,No
+380,245.76,207,Nio EC6,1.28,5,1,Hill Station,DC Fast Charging,28,11,28,No
+350,690,249,Tesla Model 3,1.8,4,1,City,DC Fast Charging,20,3,16,No
+350,399,204,Mercedes - Benz EQC,1.75,5,2,Highway,Level 2,45,12,15,No
+392,238.08,226,Nio EC6,1.24,5,5,Hill Road,DC Fast Charging,43,15,32,Yes
+362,295.68,224,Nio EC6,1.54,5,3,Hill Road,DC Fast Charging,39,20,31,Yes
+400,73.44,329,Chevrolet Bolt,1.53,2,2,Hill Station,Level 1,20,16,48,Yes
+400,240,214,Tesla Model Y,1.2,5,3,Highway,Level 1,26,10,28,No
+372,154.38,246,SoNo motors Sion,1.66,5,3,Hill Station,Level 1,33,8,15,No
+380,252.5,227,Audi e-tron 55,1.01,3,4,Highway,Level 2,31,4,21,No
+345,229.5,221,Renault Zoe,1.53,1,3,Hill Station,Level 1,32,14,27,No
+48,200,205,Mahindra e2o (P4),1,3,3,City,DC Fast Charging,10,12,21,No
+302,156.88,229,Seat Mii Electric,1.48,5,3,City,Level 1,32,18,30,No
+48,36.14,247,Mahindra e20 (P4),1.39,4,4,Hill Station,Level 1,28,12,24,No
+100,37.18,249,Mahindra e20 (P8),1.43,1,2,Highway,Level 1,22,10,20,No
+350,141,228,BMW i3,1.5,5,1,Hill Station,Level 1,30,11,18,No
+360,238.74,228,Nissan Leaf,1.73,7,3,Hill Road,DC Fast Charging,45,20,29,Yes
+100,36.66,212,Mahindra e20 (P8),1.41,1,3,Hill Station,Level 1,26,16,16,No
+326,178.08,240,Seat Mii Electric,1.68,7,5,Hill Road,DC Fast Charging,40,16,28,Yes
+315,205.36,225,Ford Focus Electric,1.51,5,3,Highway,Level 2,25,13,15,No
+400,149.6,210,Tesla Model Y,0.8,2,4,City,DC Fast Charging,27,4,21,No
+290,143.1,247,Seat Mii Electric,1.35,3,4,Hill Station,Level 1,23,12,30,No
+100,42.12,237,Mahindra e20 (P8),1.62,3,2,City,DC Fast Charging,28,15,25,No
+62,141.24,202,Renault twizzy,1.32,5,2,Highway,DC Fast Charging,28,9,23,No
+356,215,219,Hyundai Kona,0.83,5,3,City,Level 2,22,10,25,No
+356,139.52,211,Hyundai Kona,1.28,1,4,Highway,Level 1,24,7,20,No
+290,95.4,218,Seat Mii Electric,0.9,7,4,Hill Road,DC Fast Charging,42,16,35,Yes
+367,189.12,211,Tesla Model X,0.96,7,4,Hill Road,DC Fast Charging,-6,20,34,Yes
+190,106.14,243,MW Motors Luka EV,0.87,4,3,City,Level 1,21,19,17,No
+320,150.4,213,Tata Nexon,1.6,2,2,Hill Station,Level 1,23,18,25,No
+320,128.78,231,Tata Nexon,1.37,1,4,City,DC Fast Charging,20,14,26,No
+330,176.7,239,Aiways U5,0.93,5,3,Highway,Level 1,23,11,17,No
+48,35.96,245,Mahindra e2o (P2),1.24,5,3,Hill Road,DC Fast Charging,-8,18,27,Yes
+350,380.76,227,Mercedes - Benz EQC,1.67,3,1,City,Level 1,26,18,16,No
+350,235,239,Nio EC6,1.23,4,2,Highway,Level 1,23,8,19,No
+350,76.32,227,Chevrolet Bolt,1.59,3,1,Hill Station,Level 2,34,7,27,No
+425,260.82,246,Nio ES8,1.38,4,4,City,Level 1,29,8,21,No
+345,135,232,Renault Zoe,0.9,2,3,City,Level 2,29,13,24,No
+365,720,209,Tesla Model S,1.8,4,3,City,DC Fast Charging,29,5,16,No
+393,128.8,250,Volkwagen e-Golf,1.4,5,4,City,DC Fast Charging,28,4,25,No
+396,328.32,249,Nio EC6,1.71,3,2,Hill Station,DC Fast Charging,27,19,15,No
+330,93.93,245,SoNo motors Sion,1.01,5,4,Highway,Level 2,33,6,29,No
+43,140,206,MG ZS,1,4,1,hill station,DC Fast Charging,10,8,29,No
+375,355,210,Tesla Model S,1.5,3,1,Normal driving in City Traffic,Level 2,40,15,21,No
+356,191.84,241,Hyundai Kona,1.76,5,4,Hill Station,DC Fast Charging,21,14,25,No
+360,194.58,234,Nissan Leaf,1.41,4,2,Highway,Level 2,32,5,20,No
+400,294.84,310,Nio ES8,1.56,5,3,City,DC Fast Charging,25,18,50,Yes
+345,148.5,212,Renault Zoe,0.99,4,5,Hill Road,DC Fast Charging,-10,18,26,Yes
+385,213.4,220,Tesla Model S,0.97,2,2,Highway,Level 1,30,13,24,No
+356,92.65,232,Hyundai Kona,0.85,4,4,City,Level 2,35,10,30,No
+56,62.06,246,Renault twizzy,0.58,5,2,Hill Station,Level 1,29,8,18,No
+367,241.98,215,Nio ES6,1.09,4,3,Hill Road,DC Fast Charging,-2,19,27,Yes
+354,261.12,209,Nio EC6,1.36,2,2,City,Level 2,27,4,28,No
+298,85.86,204,Seat Mii Electric,0.81,2,4,Hill Station,DC Fast Charging,34,11,26,No
+350,58.56,249,Chevrolet Bolt,1.22,1,3,Hill Station,Level 2,21,17,15,No
+356,120.99,210,Hyundai Kona,1.11,3,4,Highway,Level 2,26,5,30,No
+380,100,201,MG ZS,1,1,2,City,DC Fast Charging,25,5,22,No
+360,80,218,BMW i3,1,1,2,Highway Driving,DC Fast Charging,30,10,23,No
+380,263.32,242,Jaguar I-pace,1.16,1,1,Highway,DC Fast Charging,21,10,25,No
+350,323.76,205,Mercedes - Benz EQC,1.42,1,4,City,DC Fast Charging,-5,14,20,No
+318,151.59,239,SoNo motors Sion,1.63,2,4,City,Level 1,28,17,25,No
+380,342.5,200,Audi e-tron 55,1.37,5,3,Hill Station,Level 1,32,6,24,No
+320,94.375,234,Tata Nexon,1,2,1,City,DC Fast Charging,35,17,28,No
+54,25.48,226,Mahindra e20 (P4),0.98,4,1,City,Level 1,29,6,30,No
+461,156.87,219,Nio ES8,0.83,2,3,Hill Station,Level 2,33,12,20,No
+380,437.5,225,Audi e-tron 55,1.75,3,3,Highway,Level 2,32,9,20,No
+400,180,244,Tesla Model Y,1.3,2,3,Rain/Low Visibility,DC Fast Charging,14,7,21,No
+345,133.5,245,Renault Zoe,0.89,4,3,Hill Road,DC Fast Charging,37,20,29,Yes
+334,139.92,239,Seat Mii Electric,1.32,6,5,Hill Road,DC Fast Charging,45,18,25,Yes
+48,44.98,225,Mahindra e20 (P4),1.73,3,4,City,DC Fast Charging,34,14,27,No
+375,750,225,Tesla Model S,2,3,1,City,DC Fast Charging,22,5,18,No
+320,125.12,315,Ford Focus Electric,0.92,4,4,Hill Station,Level 1,32,15,48,Yes
+380,324.61,230,Jaguar I-pace,1.43,5,4,Hill Road,DC Fast Charging,42,15,27,Yes
+415,215.46,207,Nio ES8,1.14,1,1,Hill Station,Level 2,21,8,18,No
+373,125.12,240,Volkwagen e-Golf,1.36,1,3,Highway,DC Fast Charging,25,13,29,No
+330,266,229,Aiways U5,1,3,2,City,DC Fast Charging,35,13,29,No
+58,107,246,Renault twizzy,1,4,2,Hill Road,DC Fast Charging,39,16,34,Yes
+394,112.94,208,MG ZS,1,2,0.5,City,DC Fast Charging,25,10,17,No
+51,46.8,232,Mahindra e20 (P6),1.8,2,2,Highway,Level 1,20,5,27,No
+396,322.65,227,Audi e-tron 55,1.35,2,4,Hill Station,DC Fast Charging,24,8,25,No
+306,224.4,224,Ford Focus Electric,1.65,2,3,City,Level 1,29,17,26,No
+350,228,203,Mercedes - Benz EQC,1,1,6,City,DC Fast Charging,-10,15,30,No
+375,155.31,230,SoNo motors Sion,1.67,5,3,Highway,Level 2,31,15,23,No
+299,173.84,210,Seat Mii Electric,1.64,4,5,Hill Road,DC Fast Charging,-9,20,34,Yes
+350,362.52,229,Mercedes - Benz EQC,1.59,5,5,Hill Road,DC Fast Charging,39,20,27,Yes
+400,315,241,Tesla Model Y,1.69,3,1,Hill Station,Level 2,27,11,23,No
+400,316.03,246,Tesla Model Y,1.69,3,1,Hill Station,Level 2,27,11,29,No
+396,339.38,243,Audi e-tron 55,1.42,3,1,City,Level 2,25,11,26,No
+53,30.16,235,Mahindra e2o (P2),1.04,2,1,Highway,Level 1,28,14,15,No
+380,330,224,Audi e-tron 55,1.32,5,3,Hill Station,Level 1,31,4,28,No
+284,235.28,216,Ford Focus Electric,1.73,2,1,Highway,Level 1,20,18,19,No
+500,200,204,Nissan Leaf,1.5,5,2,Hill Road,Level 1,45,20,16,No
+350,153.8394,245,MG ZS,1.21,2,4,Hill Station,DC Fast Charging,34,6,24,No
+360,173.88,221,Nissan Leaf,1.26,1,2,Hill Station,Level 2,30,18,30,No
+336,82.77,247,SoNo motors Sion,0.89,2,3,Hill Station,DC Fast Charging,28,11,20,No
+57,67.41,211,Renault twizzy,0.63,2,1,City,Level 2,4,12,29,No
+400,187,246,Tesla Model Y,1,2,3,Hill Station,Level 1,29,19,29,No
+370,300,221,Tesla Model Y,1.1,2,2,Highway,DC Fast Charging,23,10,26,No
+350,128.78,224,BMW i3,1.37,2,4,Hill Station,Level 1,21,18,28,No
+300,120,201,Volkwagen e-Golf,1.3,3,3,Hill Station,Level 2,20,13,21,No
+347,129.32,217,Seat Mii Electric,1.22,4,4,Hill Station,Level 1,35,9,29,No
+330,277.4,241,Aiways U5,1.46,5,5,Hill Road,DC Fast Charging,-10,17,32,Yes
+72,200,213,Mahindra e2o (P8),1,3,3,City,DC Fast Charging,10,9,17,No
+466,262.71,211,Nio ES8,1.39,4,3,Hill Road,DC Fast Charging,44,17,32,Yes
+350,72.96,227,Chevrolet Bolt,1.52,5,4,Highway,Level 2,34,16,24,No
+330,197.6,202,Aiways U5,1.04,1,3,City,Level 1,29,4,19,No
+51,34.32,219,Mahindra e20 (P6),1.32,3,3,Hill Station,DC Fast Charging,22,4,26,No
+425,261,241,Nio ES8,1.38,4,4,Rain/Low Visibility,Level 1,29,8,30,No
+61,119.84,215,Renault twizzy,1.12,1,1,Highway,Level 2,22,6,26,No
+327,140.76,244,Volkwagen e-Golf,1.53,2,3,Hill Station,Level 1,31,11,26,No
+350,150.0252,238,MG ZS,1.18,1,3,Hill Station,Level 2,30,7,22,No
+49,25.74,210,Mahindra e20 (P4),0.99,2,1,Highway,Level 2,21,10,26,No
+396,239,238,Audi e-tron 55,1,3,3,Hill Station,Level 1,24,19,25,No
+350,105.5262,249,MG ZS,0.83,2,2,Hill Station,DC Fast Charging,24,6,16,No
+396,224.64,247,Nio EC6,1.17,2,4,City,DC Fast Charging,24,14,23,No
+385,184.8,224,Tesla Model S,0.84,2,2,City,Level 1,32,13,29,No
+49,44.72,215,Mahindra e20 (P6),1.72,3,4,City,DC Fast Charging,30,5,19,No
+396,413.47,216,Audi e-tron 55,1.73,5,1,City,Level 2,34,4,23,No
+201,143.96,217,MW Motors Luka EV,1.18,5,1,City,Level 2,28,6,22,No
+213,128.1,240,MW Motors Luka EV,1.05,3,2,Hill Station,Level 2,20,14,26,No
+345,193.5,227,Renault Zoe,1.29,4,1,Hill Station,Level 2,28,6,30,No
+360,216.66,216,Nissan Leaf,1.57,2,2,Highway,DC Fast Charging,29,12,28,No
+356,110.09,212,Hyundai Kona,1.01,5,2,City,DC Fast Charging,34,10,16,No
+356,120.99,235,Hyundai Kona,1.11,3,4,Hill Station,Level 2,26,5,30,No
+368,332.16,248,Nio EC6,1.73,2,3,Hill Station,Level 1,28,9,18,No
+390,50.4,306,Chevrolet Bolt,1.05,2,3,City,DC Fast Charging,6,9,41,Yes
+385,354.2,213,Tesla Model S,1.61,2,2,City,Level 1,31,7,22,No
+352,120,200,BMW I3,0.5,7,5,Hill Road,DC Fast Charging,-4,18,31,Yes
+360,230,228,Nissan Leaf,2.08,1,2,Hill Station,Level 2,31,12,20,Yes
+350,289.59,236,Tesla Model X,1.47,4,4,Hill Road,DC Fast Charging,44,18,31,Yes
+380,230,226,Audi e-tron 55,0.92,4,2,Highway,Level 2,24,18,23,No
+48,27.82,240,Mahindra e20 (P6),1.07,1,4,Hill Station,Level 1,34,11,21,No
+259,193.12,228,Ford Focus Electric,1.42,7,3,Hill Road,DC Fast Charging,41,17,31,Yes
+330,254.6,244,Aiways U5,1.34,2,1,City,DC Fast Charging,25,19,27,No
+396,401.52,213,Audi e-tron 55,1.68,3,3,City,Level 2,20,14,16,No
+396,267.68,208,Audi e-tron 55,1.12,2,2,Hill Station,DC Fast Charging,35,11,26,No
+350,195.7956,228,MG ZS,1.54,7,5,Hill Road,DC Fast Charging,-5,16,30,Yes
+350,300,245,Tesla Model 3(Std range plus),1,7,3,Hill Road,DC Fast Charging,42,18,31,Yes
+330,266,240,Aiways U5,1.4,1,3,City,Level 2,34,17,18,No
+385,310.2,215,Tesla Model S,1.41,3,4,City,Level 2,26,15,29,No
+352,120,240,BMW I3,0.5,2,1,Highway,Level 1,30,10,16,No
+345,150,229,Renault Zoe,1,2,20,City,DC Fast Charging,-10,15,26,No
+196,170.8,201,MW Motors Luka EV,1.4,4,5,Hill Road,DC Fast Charging,-6,15,27,Yes
+54,45.24,224,Mahindra e2o (P2),1.56,1,2,Highway,DC Fast Charging,-12,11,15,No
+372,350.66,231,Tesla Model X,1.78,2,4,City,Level 2,31,8,18,No
+350,180,242,MG ZS,2.2,2,3,City,Level 2,24,10,26,Yes
+350,122.2,212,BMW i3,1.3,5,3,Hill Road,DC Fast Charging,40,15,30,Yes
+51,26.26,221,Mahindra e20 (P6),1.01,3,2,Highway,DC Fast Charging,25,9,23,No
+379,395.16,232,Nio ES6,1.78,4,5,Hill Road,DC Fast Charging,39,17,25,Yes
+465,272.16,249,Nio ES8,1.44,3,2,Highway,DC Fast Charging,28,17,15,No
+378,342.78,216,Tesla Model X,1.74,2,1,City,Level 1,29,14,22,No
+360,150,228,Nissan Leaf,1,6,3,Hill Road,DC Fast Charging,35,17,32,Yes
+340,120,249,Kia Soul,2,4,4,City,DC Fast Charging,12,6,22,No
+360,113.16,211,Nissan Leaf,0.82,5,3,Hill Station,DC Fast Charging,25,14,24,No
+389,257.52,221,Nio ES6,1.16,6,4,Hill Road,DC Fast Charging,41,19,35,Yes
+338,165.6,205,Volkwagen e-Golf,1.8,1,4,Highway,Level 2,33,8,19,No
+346,86.49,225,SoNo motors Sion,0.93,5,2,Highway,DC Fast Charging,21,15,28,No
+268,131.92,214,Ford Focus Electric,0.97,7,3,Hill Road,DC Fast Charging,36,19,28,Yes
+49,82,215,Mahindra e2o (P2),2.23,1,4,Highway,Level 2,25,15,21,Yes
+475,250,213,Nissan Leaf,1,5,2,City,DC Fast Charging,40,15,18,No
+368,97.52,214,Volkwagen e-Golf,1.06,4,1,City,DC Fast Charging,-5,9,22,No
+197,161.04,216,MW Motors Luka EV,1.32,4,4,City,DC Fast Charging,29,7,25,No
+356,161.32,229,Hyundai Kona,1.48,5,3,Hill Road,DC Fast Charging,42,17,35,Yes
+50,43,209,Mahindra e20 (P8),1.5,3,3,Suburban,DC Fast Charging,30,9,24,No
+350,300.96,241,Mercedes - Benz EQC,1.32,7,5,Hill Road,DC Fast Charging,35,19,25,Yes
+350,51.36,207,Chevrolet Bolt,1.07,2,3,Highway,DC Fast Charging,8,11,23,No
+385,193.6,209,Tesla Model S,0.88,2,3,Highway,DC Fast Charging,31,12,25,No
+396,130.64,244,Volkwagen e-Golf,1.42,4,3,Highway,Level 1,30,4,26,No
+350,90.24,207,BMW i3,0.96,5,4,Hill Road,DC Fast Charging,-4,15,35,Yes
+314,187.68,211,Ford Focus Electric,1.38,3,1,Hill Station,Level 2,26,19,15,No
+360,161.68,313,Tata Nexon,1.72,3,3,Highway,Level 1,24,9,49,Yes
+378,146.28,235,Volkwagen e-Golf,1.59,4,4,Highway,Level 1,35,18,20,No
+55,117.7,216,Renault twizzy,1.1,1,3,Hill Station,DC Fast Charging,22,15,25,No
+375,390,230,Tesla Model S,2.05,3,1,Hillway Driving,Level 1 ,40,15,24,Yes
+381,352.63,240,Tesla Model X,1.79,3,1,City,DC Fast Charging,23,10,27,No
+347,152.72,230,Volkwagen e-Golf,1.66,6,3,Hill Road,DC Fast Charging,44,19,29,Yes
+361,280,237,Hyundai Ioniq,0.5,5,5,Hill Road,DC Fast Charging,-11,19,25,Yes
+298,137.8,233,Seat Mii Electric,1.3,6,5,Hill Road,DC Fast Charging,45,16,25,Yes
+400,224.4,228,Tesla Model Y,1.2,5,3,Hill Road,DC Fast Charging,38,18,29,Yes
+297,174.9,241,Seat Mii Electric,1.65,7,5,Hill Road,DC Fast Charging,41,16,26,Yes
+350,160.1964,237,MG ZS,1.26,3,2,Highway,Level 2,-4,13,15,No
+276,145.52,231,Ford Focus Electric,1.07,6,3,Hill Road,DC Fast Charging,37,19,28,Yes
+380,351.85,248,Jaguar I-pace,1.55,5,3,Hill Road,DC Fast Charging,43,18,30,Yes
+375,244.95,207,Kia Soul,1.15,4,4,City,Level 1,30,15,29,No
+380,335,244,Audi e-tron 55,1.34,4,1,Hill Road,DC Fast Charging,45,19,26,Yes
+293,130,220,Seat Mii Electric,2.34,5,2,Highway,Level 2,25,13,28,Yes
+356,165.68,236,Hyundai Kona,1.52,7,3,Hill Road,DC Fast Charging,42,15,31,Yes
+360,241.5,213,Nissan Leaf,1.75,2,4,City,Level 1,25,6,24,No
+375,281.16,232,Kia Soul,1.32,3,1,City,Level 2,28,4,17,No
+400,282.24,213,Nio EC6,1.47,1,4,Hill Station,Level 1,27,5,15,No
+333,146.28,212,Seat Mii Electric,1.38,3,4,City,Level 2,21,12,28,No
+365,400,206,Tesla Model S,1.5,3,3,City,Level 1,47,15,25,No
+360,242.88,221,Nissan Leaf,1.76,2,3,Hill Station,Level 1,21,8,23,No
+54,30.94,232,Mahindra e20 (P4),1.19,4,4,Hill Road,DC Fast Charging,45,17,30,Yes
+345,238.5,208,Renault Zoe,1.59,3,3,Highway,Level 2,26,7,24,No
+368,157.17,200,SoNo motors Sion,1.69,2,4,Highway,Level 1,-7,5,30,No
+323,103.23,207,SoNo motors Sion,1.11,7,4,Hill Road,DC Fast Charging,40,16,25,Yes
+410,120,240,Audi e-tron 55,1.1,2,3,Suburban,Level 2,30,12,29,No
+48,40.31,246,Mahindra e2o (P2),1.39,1,4,Hill Station,Level 2,35,7,27,No
+371,188.7,246,Nio ES6,0.85,5,3,Hill Road,DC Fast Charging,43,15,31,Yes
+369,108.56,250,Volkwagen e-Golf,1.18,1,3,Hill Station,Level 2,31,19,27,No
+345,226.5,213,Renault Zoe,1.51,1,1,Hill Station,Level 2,22,16,28,No
+219,217.16,243,MW Motors Luka EV,1.78,1,3,City,Level 1,32,18,28,No
+380,363.2,248,Jaguar I-pace,1.6,5,2,Hill Station,Level 1,31,5,28,No
+356,111.18,241,Hyundai Kona,1.02,5,2,Highway,DC Fast Charging,24,12,16,No
+360,238.75,242,Nissan Leaf,1.73,4,1,Rain/Low Visibility,Level 2,21,13,27,No
+385,365.2,235,Tesla Model S,1.66,1,3,Hill Station,Level 1,20,10,21,No
+330,290.7,247,Aiways U5,1.53,7,3,Hill Road,DC Fast Charging,42,19,26,Yes
+400,291.72,245,Tesla Model Y,1.56,1,1,Hill Station,Level 1,24,16,17,No
+360,111.78,204,Nissan Leaf,0.81,5,3,Highway,DC Fast Charging,25,8,26,No
+375,366.36,246,Kia Soul,1.72,5,3,Hill Station,Level 2,35,11,28,No
+309,129.72,236,Volkwagen e-Golf,1.41,1,2,City,Level 2,29,12,24,No
+396,356.11,225,Audi e-tron 55,1.49,1,4,City,Level 2,21,19,27,No
+400,222.53,217,Tesla Model Y,1.19,3,2,Hill Station,Level 2,29,11,24,No
+351,250.86,247,Nio ES6,1.13,1,1,Highway,Level 1,20,13,23,No
+48,80,231,Mahindra e20 (P6),2,2,4,Highway,Level 2,28,8,23,Yes
+288,186.32,223,Ford Focus Electric,1.37,5,2,Highway,DC Fast Charging,24,10,26,No
+380,280,211,Jaguar I-pace,2.09,1,1,City,DC Fast Charging,33,14,25,Yes
+350,133.497,201,MG ZS,1.05,2,4,Hill Station,DC Fast Charging,25,7,16,No
+356,132,210,Hyundai Kona,1.2,1,2,Highway,Level 2,30,7,27,No
+360,150,239,Nissan Leaf,1.2,5,5,hill station,level 1,-2,15,22,No
+375,276.9,236,Kia Soul,1.3,2,3,City,DC Fast Charging,23,12,16,No
+220,99,227,Tata Tigor,1,4,1,Hill station,Level 1,15,9,19,No
+50,48.14,215,Mahindra e2o (P2),1.66,4,3,Highway,Level 2,25,11,17,No
+375,339,225,Tesla Model S,1.5,3,2,Hill station,Level 1,40,15,18,No
+52,30.94,212,Mahindra e20 (P6),1.19,5,1,Hill Station,DC Fast Charging,30,5,22,No
+360,187.68,232,Nissan Leaf,1.36,7,3,Hill Road,DC Fast Charging,40,18,28,Yes
+380,325,224,Audi e-tron 55,1.3,3,3,Highway,DC Fast Charging,20,18,27,No
+381,249.6,210,Nio EC6,1.3,1,4,Highway,Level 2,35,5,27,No
+191,113.46,208,MW Motors Luka EV,0.93,3,4,Highway,DC Fast Charging,29,12,15,No
+394,101.64,238,MG ZS,0.9,3,1,Highway,DC Fast Charging,40,12,30,No
+435,153.09,234,Nio ES8,0.81,4,1,Highway,Level 2,28,6,17,No
+54,21.06,239,Mahindra e20 (P4),0.81,5,4,Hill Road,DC Fast Charging,37,15,34,Yes
+397,89.24,230,Volkwagen e-Golf,0.97,3,3,City,DC Fast Charging,27,12,25,No
+375,253.47,230,Kia Soul,1.19,2,2,Highway,Level 2,20,5,22,No
+306,154.56,228,Volkwagen e-Golf,1.68,3,3,Hill Station,Level 1,-2,7,27,No
+53,31.61,232,Mahindra e2o (P2),1.09,3,1,Hill Station,DC Fast Charging,33,10,23,No
+350,104.2548,222,MG ZS,0.82,1,3,Hill Station,DC Fast Charging,34,16,24,No
