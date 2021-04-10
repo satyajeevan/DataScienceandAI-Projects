@@ -1,0 +1,23 @@
+https://www.docscorp.com/globalassets/aaimages/hero-images/blog/blg-hd-cc-ocr-db-2.jpg
+
+
+The webbrowser module provides a high-level interface to allow displaying Web-based documents to users. Under most circumstances, simply calling the open() function from this module will open url using the default browser . You have to import the module and use open() function.
+
+example
+ 
+import webbrowser
+webbrowser.open('http://net-informations.com', new=2)
+
+If new is 0, the url is opened in the same browser window if possible.
+ If new is 1, a new browser window is opened if possible. 
+If new is 2, a new browser page ("tab") is opened if possible.
+
+
+
+web browser
+
+To add this to your Environment Variables System PATH, right click on your Windows icon and go to System. System Control Panel applet (Start - Settings - Control Panel - System). Change advanced settings, or the advanced tab, and select the button there called Environment Varaibles.
+
+Once you click on Environment Variables here, another window will pop up. Scroll through the items, select PATH, and click edit.
+
+Once you're in here, click New to add the folder path to your chrome.exe file. Like I said above, mine was found at:
